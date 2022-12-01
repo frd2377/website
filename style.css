@@ -1,0 +1,49 @@
+body{
+    background: black;
+}
+
+.col{
+    margin-top: 2%;
+    color: azure;
+}
+
+img{
+    width: 20rem;
+    border-radius: 10px;
+    filter: brightness(1.1);
+    mix-blend-mode: lighten;
+    margin-bottom: 2%;
+    height: 15rem;
+}
+
+.contenedor{
+    color: azure;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: rgb(22, 22, 22);
+    border-radius: 10px;
+    height: 24rem;
+}
+
+nav{
+    background-color: rgb(22, 22, 22);
+}
+
+.acerca{
+    text-align: justify;
+}
+
+
+.iconos{
+    border-radius: 0px;
+    width: 15px;
+    height: 15px;
+}
+
+#pagef{
+    color: azure;
+    margin-top: 1rem;
+    background-color: rgb(22, 22, 22);
+    height: 2rem;  
+    border-radius: 5px; 
+}
