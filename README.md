@@ -1,3 +1,2 @@
-# portafolio
-
-#Link: frd2377.github.io/portafolio
+#Portafolio:
+frd2377.github.io/portafolio
